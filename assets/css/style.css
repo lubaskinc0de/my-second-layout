@@ -123,4 +123,7 @@ hr {
     .buttons {
         width: 200px;
     }
+    .card {
+        backdrop-filter: blur(15px);
+    }
 }
