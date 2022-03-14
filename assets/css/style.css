@@ -124,6 +124,6 @@ hr {
         width: 200px;
     }
     .card {
-        backdrop-filter: blur(15px);
+        backdrop-filter: blur(10px);
     }
 }
