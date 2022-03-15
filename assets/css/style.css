@@ -1,11 +1,11 @@
 body {
-    margin: 0;
-    display: flex;
-    background: url("../gif/bg.gif") center;
-    -webkit-background-size: cover;
-    background-size: cover;
-    font-family: 'Open Sans', sans-serif;
+    width: 100%;
     min-height: 100%;
+    margin: 0;
+    background: url(../gif/bg.gif) center;
+    background-size: cover;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1,
