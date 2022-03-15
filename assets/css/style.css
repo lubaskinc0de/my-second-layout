@@ -117,9 +117,6 @@ hr {
 }
 
 @media (max-width: 575px) {
-    .card {
-        padding: 20px;
-    }
     .buttons {
         width: 200px;
     }
